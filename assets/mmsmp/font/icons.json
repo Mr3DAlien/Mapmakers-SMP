@@ -12,10 +12,37 @@
         {
             "type": "bitmap",
             "file": "mmsmp:gui/icons/admin.png",
-            "ascent": 8,
-            "height": 10,
+            "ascent": 7,
+            "height": 8,
             "chars": [
                 "\uEff2"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "mmsmp:gui/icons/mojang.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": [
+                "\uEff3"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "mmsmp:gui/icons/realms.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": [
+                "\uEff4"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "mmsmp:gui/icons/friend.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": [
+                "\uEff5"
             ]
         }
     ]
