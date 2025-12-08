@@ -44,6 +44,24 @@
             "chars": [
                 "\uEff5"
             ]
+        },
+        {
+            "type": "bitmap",
+            "file": "mmsmp:gui/icons/stickypiston_logo.png",
+            "ascent": 10,
+            "height": 18,
+            "chars": [
+                "\uEff6"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "mmsmp:gui/icons/mr3dalien_logo.png",
+            "ascent": -20,
+            "height": 20,
+            "chars": [
+                "\uEff7"
+            ]
         }
     ]
 }
