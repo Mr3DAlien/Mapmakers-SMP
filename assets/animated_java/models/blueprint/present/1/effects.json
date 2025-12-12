@@ -1,0 +1,6 @@
+{
+	"parent": "animated_java:blueprint/present/effects",
+	"textures": {
+		"1": "animated_java:blueprint/present/1"
+	}
+}

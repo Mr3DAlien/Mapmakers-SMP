@@ -1,0 +1,14 @@
+{
+    "warp": {
+      "sounds": [{"name":"custom:warp/1","pitch":1.0},
+                 {"name":"custom:warp/1","pitch":1.05},
+                 {"name":"custom:warp/2","pitch":1.0},
+                 {"name":"custom:warp/2","pitch":1.05}]
+    },
+    "warp_fail": {
+      "sounds": ["custom:warp/fail"]
+    },
+    "opening_present": {
+      "sounds": ["custom:opening_present"]
+    }
+  }

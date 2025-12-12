@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "custom:item/open_present",
+    "layer1": "custom:item/open_present_overlay"
+  }
+}
