@@ -3,7 +3,7 @@
     {
       "type": "ttf",
       "file": "mmsmp:minecraft.ttf",
-      "shift": [50, 0],
+      "shift": [30, 0],
       "size": 7,
       "oversample": 4
     }

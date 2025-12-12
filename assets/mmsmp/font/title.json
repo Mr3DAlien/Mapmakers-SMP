@@ -2,11 +2,55 @@
     "providers": [
         {
             "type": "bitmap",
-            "file": "mmsmp:gui/title/text_logo.png",
-            "ascent": 10,
-            "height": 18,
+            "file": "mmsmp:gui/title/text_logo_01.png",
+            "ascent": 12,
+            "height": 28,
             "chars": [
                 "\uEff1"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "mmsmp:gui/title/text_logo_02.png",
+            "ascent": 12,
+            "height": 28,
+            "chars": [
+                "\uEff2"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "mmsmp:gui/title/text_logo_03.png",
+            "ascent": 12,
+            "height": 28,
+            "chars": [
+                "\uEff3"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "mmsmp:gui/title/text_logo_04.png",
+            "ascent": 12,
+            "height": 28,
+            "chars": [
+                "\uEff4"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "mmsmp:gui/title/text_logo_04.png",
+            "ascent": 0,
+            "height": 30,
+            "chars": [
+                "\uEff4"
+            ]
+        },        {
+            "type": "bitmap",
+            "file": "mmsmp:gui/title/mr3dalien_logo.png",
+            "ascent": 20,
+            "height": 20,
+            "chars": [
+                "\uEff5"
             ]
         },
         {
@@ -15,26 +59,29 @@
             "ascent": 20,
             "height": 20,
             "chars": [
-                "\uEff2"
-            ]
-        },
-        {
-            "type": "bitmap",
-            "file": "mmsmp:gui/title/mr3dalien_logo.png",
-            "ascent": 20,
-            "height": 20,
-            "chars": [
-                "\uEff3"
+                "\uEff6"
             ]
         },
         {
             "type": "bitmap",
             "file": "mmsmp:gui/title/stickypiston_logo.png",
-            "ascent": 15,
-            "height": 15,
+            "ascent": 14,
+            "height": 14,
             "chars": [
-                "\uEff4"
+                "\uEff7"
             ]
+        },
+        {
+            "type": "space",
+            "advances": {
+                "\ue000": -1
+            }
+        },
+        {
+            "type": "space",
+            "advances": {
+                "\ue001": -2
+            }
         }
     ]
 }
