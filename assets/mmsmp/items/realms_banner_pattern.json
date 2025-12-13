@@ -1,0 +1,7 @@
+{
+  "model": {
+    "type": "minecraft:model",
+    "model": "mmsmp:item/realms_banner_pattern",
+    "tints": []
+  }
+}

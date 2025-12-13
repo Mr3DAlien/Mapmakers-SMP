@@ -14,5 +14,7 @@
   "block.minecraft.banner.mmsmp.realms.purple": "Purple Realms",
   "block.minecraft.banner.mmsmp.realms.red": "Red Realms",
   "block.minecraft.banner.mmsmp.realms.white": "White Realms",
-  "block.minecraft.banner.mmsmp.realms.yellow": "Yellow Realms"
+  "block.minecraft.banner.mmsmp.realms.yellow": "Yellow Realms",
+
+  "item.mmsmp.realms_banner_pattern": "Realms Logo Banner Pattern"
 }

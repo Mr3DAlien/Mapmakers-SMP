@@ -64,6 +64,24 @@
             ]
         },
         {
+            "type": "bitmap",
+            "file": "minecraft:gui/characters/mr3dalien.png",
+            "ascent": 25,
+            "height": 30,
+            "chars": [
+                "\ue103"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:gui/characters/reking.png",
+            "ascent": 14,
+            "height": 25,
+            "chars": [
+                "\ue104"
+            ]
+        },
+        {
             "type": "space",
             "advances": {
                 "\ue000": -1

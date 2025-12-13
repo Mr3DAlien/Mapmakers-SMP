@@ -1,7 +1,11 @@
 {
   "menu.game": "\uEff1\ue000\uEff2\ue000\uEff3\ue000\uEff4",
   "menu.options": "\ue001\ue100\ue003Options...",
-  
+  "menu.returnToGame": "\ue000\ue000\ue001\ue104Back to Game",
+  "menu.returnToMenu": "\ue002\ue002Save and Quit to Title\ue002\ue003\ue103",
+
+  "soundCategory.voice": "Custom Title",
+
   "gui.stats": "Statistics\ue002\ue101",
 
   "block.minecraft.chain_command_block": "Mapmaker Coin™",
