@@ -1,0 +1,7 @@
+{
+  "model": {
+    "type": "minecraft:model",
+    "model": "mmsmp:item/vader_helmet_damaged",
+    "tints": []
+  }
+}
