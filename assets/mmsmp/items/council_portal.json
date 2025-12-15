@@ -1,0 +1,7 @@
+{
+  "model": {
+    "type": "minecraft:model",
+    "model": "mmsmp:block/council_portal",
+    "tints": []
+  }
+}
