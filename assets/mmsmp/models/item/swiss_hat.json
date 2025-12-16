@@ -100,15 +100,15 @@
 			"translation": [0, 4.5, 0]
 		},
 		"head": {
-			"rotation": [5, 0, 0],
-			"translation": [0, 15.5, -2.75],
+			"rotation": [4, 0, 0],
+			"translation": [0, 14, -3.75],
 			"scale": [1.5, 1.5, 1.5]
 		},
 		"fixed": {
 			"translation": [0, 4.5, -2.75]
 		},
 		"on_shelf": {
-			"rotation": [0, 180, 0]
+			"rotation": [0, -180, 0]
 		}
 	},
 	"groups": [
