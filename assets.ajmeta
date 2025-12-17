@@ -1,6 +1,20 @@
 {
 	"formatVersion": "1.0.0",
 	"rigs": {
+		"aura_camera": {
+			"coreFiles": ["assets/minecraft/atlases/blocks.json", "pack.mcmeta"],
+			"versionedFiles": [
+				"assets/animated_java/items/blueprint/aura_camera/camera1.json",
+				"assets/animated_java/items/blueprint/aura_camera/camera2.json",
+				"assets/animated_java/items/blueprint/aura_camera/camera3.json",
+				"assets/animated_java/items/blueprint/aura_camera/camera4.json",
+				"assets/animated_java/models/blueprint/aura_camera/camera1.json",
+				"assets/animated_java/models/blueprint/aura_camera/camera2.json",
+				"assets/animated_java/models/blueprint/aura_camera/camera3.json",
+				"assets/animated_java/models/blueprint/aura_camera/camera4.json",
+				"assets/animated_java/textures/blueprint/aura_camera/camera.png"
+			]
+		},
 		"present": {
 			"coreFiles": ["assets/minecraft/atlases/blocks.json", "pack.mcmeta"],
 			"versionedFiles": [

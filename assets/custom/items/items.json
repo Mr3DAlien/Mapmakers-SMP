@@ -8,7 +8,8 @@
       {"threshold":3,"model":{"type":"minecraft:model","model":"custom:item/wrapping_paper","tints":[{"type":"minecraft:dye","default": -1}]}},
       {"threshold":4,"model":{"type":"minecraft:model","model":"custom:item/wrapped_present","tints":[{"type":"minecraft:dye","default": -1}]}},
       {"threshold":5,"model":{"type":"minecraft:model","model":"custom:item/open_present","tints":[{"type":"minecraft:dye","default": -1}]}},
-      {"threshold":6,"model":{"type":"minecraft:model","model":"custom:item/present","tints":[{"type":"minecraft:dye","default": -1}]}}
+      {"threshold":6,"model":{"type":"minecraft:model","model":"custom:item/present","tints":[{"type":"minecraft:dye","default": -1}]}},
+      {"threshold":7,"model":{"type":"minecraft:model","model":"custom:item/baguette"}}
     ]
   }
 }
