@@ -6,7 +6,7 @@
             "ascent": 40,
             "height": 60,
             "chars": [
-                "\uEff1"
+                "\ue201"
             ]
         },
         {
@@ -15,7 +15,7 @@
             "ascent": 40,
             "height": 60,
             "chars": [
-                "\uEff2"
+                "\ue202"
             ]
         },
         {
@@ -24,7 +24,7 @@
             "ascent": 40,
             "height": 60,
             "chars": [
-                "\uEff3"
+                "\ue203"
             ]
         },
         {
@@ -33,16 +33,7 @@
             "ascent": 40,
             "height": 60,
             "chars": [
-                "\uEff4"
-            ]
-        },
-        {
-            "type": "bitmap",
-            "file": "minecraft:gui/title/text_logo_04.png",
-            "ascent": 40,
-            "height": 60,
-            "chars": [
-                "\uEff4"
+                "\ue204"
             ]
         },
         {
