@@ -1,0 +1,33 @@
+{
+	"textures": {
+		"0": "animated_java:blueprint/kiss_me/text_kiss_me1",
+		"particle": "minecraft:item/pufferfish"
+	},
+	"display": {
+		"head": {
+			"rotation": [0, 180, 0]
+		}
+	},
+	"elements": [
+		{
+			"from": [-4, 2.5, 8],
+			"to": [20, 13.5, 8],
+			"rotation": {
+				"angle": 0,
+				"axis": "y",
+				"origin": [8, 8, 8]
+			},
+			"faces": {
+				"north": {
+					"uv": [0, 2.75, 6, 5.5],
+					"texture": "#0"
+				},
+				"south": {
+					"uv": [6, 2.75, 0, 5.5],
+					"texture": "#0"
+				}
+			},
+			"light_emission": 15
+		}
+	]
+}

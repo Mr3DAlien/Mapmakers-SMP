@@ -3,6 +3,12 @@
       "sounds": ["custom:opening_present"]
     },
     "camera_flash": {
-      "sounds": ["custom:camera_flash"]
+      "sounds": ["custom:auras/camera/camera_flash"]
+    },
+    "kiss_me_pt1": {
+      "sounds": ["custom:auras/kiss_me/kiss_me_pt1"]
+    },
+    "kiss_me_pt2": {
+      "sounds": ["custom:auras/kiss_me/kiss_me_pt2"]
     }
   }
