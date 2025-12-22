@@ -1,7 +1,7 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "mmsmp:item/frog_hat",
+    "model": "mmsmp:item/hats/pig_hat",
     "tints": []
   }
 }

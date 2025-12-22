@@ -1,7 +1,7 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "mmsmp:item/television",
+    "model": "mmsmp:item/hats/vader_helmet",
     "tints": []
   }
 }

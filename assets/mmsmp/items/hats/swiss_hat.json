@@ -1,7 +1,7 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "mmsmp:item/couronne",
+    "model": "mmsmp:item/hats/swiss_hat",
     "tints": []
   }
 }

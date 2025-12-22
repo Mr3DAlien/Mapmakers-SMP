@@ -1,6 +1,4 @@
 {
-	"credit": "Made by Mr3DAlien using Blockbench",
-	"texture_size": [64, 64],
 	"textures": {
 		"0": "mmsmp:item/hats/affro",
 		"particle": "mmsmp:item/hats/affro"

@@ -1,7 +1,7 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "mmsmp:item/pig_hat",
+    "model": "mmsmp:item/hats/couronne",
     "tints": []
   }
 }
